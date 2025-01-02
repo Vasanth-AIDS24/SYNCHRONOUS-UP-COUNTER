@@ -110,9 +110,10 @@ RegisterNumber:24900136
 ![image](https://github.com/user-attachments/assets/dcddffba-bdec-457d-b798-e02e4c8e924a)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![image](https://github.com/user-attachments/assets/8c68d47c-b049-4a8c-8135-7934a1dfa7f2)
+![image](https://github.com/user-attachments/assets/83b2f5e8-6edf-4498-b6e4-d726cb29b94e)
 
 **TRUTH TABLE**
+![image](https://github.com/user-attachments/assets/f5d09500-7507-4454-bc30-a535fd4b8a1b)
 
 **RESULTS**
 ```
